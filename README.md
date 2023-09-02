@@ -32,6 +32,12 @@ https://user-images.githubusercontent.com/121868259/218253462-3c1a8cbd-bd43-474c
 <img src="https://user-images.githubusercontent.com/121868259/214228977-dcbcfd4c-69b3-4306-b824-62af6e1db519.png" width="250px">
 
 
+<h3 align="left">📝 License</h3>
+
+- 👨‍💻 All of my projects are available at [Meet bhayani](https://github.com/bhayanimeet)
+- This project is [MIT](LICENSE.md) Licensed.
+
+
 
 <h1 align="center">Made with ❤️ in India.</h1>
 <h3 align="center">You can show some respect by starring 🌟 the repository!</h3>
